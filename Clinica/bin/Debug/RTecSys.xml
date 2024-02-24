@@ -1,0 +1,300 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RTecSys
+</name>
+</assembly>
+<members>
+<member name="P:RTecSys.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources._Exit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.accept001">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.Add">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.administrator1_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.Boleto">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.Boleto_128">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.Boleto_2_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.Boleto1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.Busca_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.Busca_16x161">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.cancelar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.cancelar1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.controle_usuarios">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.controle_usuarios1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.converter">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.copiar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.copiar1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.Delete">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.disc_r">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.editar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.Financ_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.Fortes">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.Impressora__Fiscal2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.impressoraG">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.Imprime">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.Info">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.leao">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.Load">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.logo_NFe">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.logo_sped">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.logo_sped1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.metrosys">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.metrosys2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.Modify">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.NFe">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.ok_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.OutrasOpcoes">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.OutrasOpcoes1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.palm_transf">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.proximo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.restaurar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.salvar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.Save">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.Search">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.settings">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.settings2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.settings21">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.tesoura">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.transferencia">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.user2__add__16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.usuario_Adm_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RTecSys.My.Resources.Resources.yast_sysadmin">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:RTecSys.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:RTecSys.DataSet1.est0001DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RTecSys.DataSet1.est0001Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RTecSys.DataSet1.est0001RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RTecSys.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:RTecSys.DataSet1TableAdapters.est0001TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:RTecSys.DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(RTecSys.DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:RTecSys.DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(RTecSys.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:RTecSys.DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(RTecSys.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:RTecSys.DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:RTecSys.DataSet1TableAdapters.TableAdapterManager.UpdateAll(RTecSys.DataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:RTecSys.DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:RTecSys.DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:RTecSys.DataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="M:RTecSys.ClFuncoes.NumeroToExtenso(System.Decimal)">
+	<summary>
+ Função principal que recolhe o valor e chama as duas funções
+ auxiliares para a parte inteira e para a parte decimal
+ </summary>
+	<param name="number">Número a converter para extenso (Reais)</param>
+</member><member name="M:RTecSys.ClFuncoes.getDecimal(System.Byte)">
+	<summary>
+ Função auxiliar - Parte decimal a converter
+ </summary>
+	<param name="number">Parte decimal a converter</param>
+</member><member name="M:RTecSys.ClFuncoes.getInteger(System.Decimal)">
+	<summary>
+ Função auxiliar - Parte inteira a converter
+ </summary>
+	<param name="number">Parte inteira a converter</param>
+</member>
+</members>
+</doc>

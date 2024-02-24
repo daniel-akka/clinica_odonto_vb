@@ -1,0 +1,554 @@
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\bin\Debug\RTecSys.exe.config
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\bin\Debug\RTecSys.exe
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\bin\Debug\RTecSys.pdb
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\bin\Debug\RTecSys.xml
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\bin\Debug\Boleto.Net.dll
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\bin\Debug\GenoNFeXml.dll
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\bin\Debug\GenoSintegra32DLL.dll
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\bin\Debug\Npgsql.dll
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\bin\Debug\Mono.Security.dll
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_CadCidades.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_CadDentistas.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_CadDespesasReceitas.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_cadMetro.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_CadServico.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_MCadastroAlt.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_MCadastroInc.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_MenuCadastro.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_RestauraParticipante.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_UsuariosAcessos.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_UsuariosManutencao.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_BuscaPlano.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_Cadastroplano.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_DespLancamento.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_Menudespesas.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_MenuLancamentos.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_RelatorioDesp.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_AberturaFechamento.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_LancadosManualR.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_LancamentoCaixaDiv.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_LancamentosCaixa.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_ManCaixaDiario.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_MenuCX_Diario.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_ClienteFornResp.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_ReciboNFeResp.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_ServicoResp.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_AgendamentoAlt.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_Agendamentos.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_AgendFinanceiro.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_CancelamentoNFe.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_GeraNotasFiscais.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_ManAgendamentos.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_Dup_DevolveEstornaPaga.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_relatFinanPaga.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_relatFinanReceb.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_RelatorioFluxo.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_MsgRTBox.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_CfopResp.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_CnpjCpfResp.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_CodCaixaResp.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_DataDoDiaResp.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_DataPeriodoResp.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_NFeReferenciadaResp.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_NomeResp.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_NumeroNFeResp.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_VendedorComisResp.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_VendedorResp.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.FrmLoginGerente.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.FrmLoginPrivilegio.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_ConfigBD.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_LoginGeral.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_login.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_RTecSys.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_SincronizaLojas.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_buscaFornecedor.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_buscaProdNFe.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_NFeCartaCorrecao.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_NFEGeraMapa.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_NFEOutras.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_NFeOutrasEdicao.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_NFeOutrasEdicaoManifesto.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_NFEAutorizanota.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Resources.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_ManPagamentos.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_OutrosPagamentos.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_PagamentoIndividual.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_PosicaoPortadorPaga.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_Backup.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_BaixaFinancRMp.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_GeraOrcamento.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_Orcamento.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_OrcamentoAlt.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_CadRecebimentos.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_Dup_BaixaBoletos.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_Dup_BaixaGeral.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_Dup_BaixaIndividual.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_Dup_DevolveEstornaRece.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_Dup_ManDuplicatas.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_Dup_OutrosMovimentos.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_Dup_PosicaoPortadorRece.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.Frm_CadPagamento.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\Clinica.vbproj.GenerateResource.Cache
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.exe
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.xml
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\RTecSys.pdb
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Metrosys\obj\Debug\Clinica.vbprojResolveAssemblyReference.cache
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\RTecSys.exe.config
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\RTecSys.exe
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\RTecSys.pdb
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\RTecSys.xml
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\Boleto.Net.dll
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\GenoNFeXml.dll
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\GenoSintegra32DLL.dll
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\Npgsql.dll
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\Npgsql.xml
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CadCidades.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CadDentistas.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CadDentistasOutras.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CadDespesasReceitas.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_cadMetro.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CadServico.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_MCadastroAlt.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_MCadastroInc.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_MenuCadastro.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_RestauraParticipante.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_TpAtendimento.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_UsuariosAcessos.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_UsuariosManutencao.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_BuscaPlano.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Cadastroplano.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_DespLancamento.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Menudespesas.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_MenuLancamentos.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_RelatorioDesp.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ContrDivOutras.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ControleCartao.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ControleMensal.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LancaCxDesp.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_AberturaFechamento.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LancaCxOrc.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LancaCX_DivD.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LancadosManualR.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LancamentoCaixaDiv.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LancamentoConvertOrca.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LancamentosCaixa.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ManCaixaDiario.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_MenuCX_Diario.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_RelatDiario.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ClienteFornResp.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NomeClinicaControleMensal.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ReciboNFeResp.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ServicoResp.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_AgendamentoAlt.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Agendamentos.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_AgendFinanceiro.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CancelamentoNFe.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_GeraNotasFiscais.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ManAgendamentos.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_DevolveEstornaPaga.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_relatFinanPaga.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_relatFinanReceb.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_RelatorioFluxo.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_MsgRTBox.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CfopResp.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CnpjCpfResp.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CodCaixaResp.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_DataDoDiaResp.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_DataPeriodoResp.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NFeReferenciadaResp.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NomeResp.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NumeroNFeResp.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_VendedorComisResp.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_VendedorResp.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.FrmLoginGerente.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.FrmLoginPrivilegio.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ConfigBD.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LoginGeral.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_login.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_RTecSys.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_SincronizaLojas.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_buscaFornecedor.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_buscaProdNFe.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NFeCartaCorrecao.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NFEGeraMapa.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NFEOutras.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NFeOutrasEdicao.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NFeOutrasEdicaoManifesto.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NFEAutorizanota.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Resources.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ManPagamentos.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_OutrosPagamentos.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_PagamentoIndividual.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_PosicaoPortadorPaga.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Backup.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_BaixaFinancRMp.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_GeraOrcamento.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Orcamento.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_OrcamentoAlt.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CadRecebimentos.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_BaixaBoletos.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_BaixaGeral.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_BaixaIndividual.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_DevolveEstornaRece.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_ManDuplicatas.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_OutrosMovimentos.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_PosicaoPortadorRece.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CadPagamento.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_MenuMovRelatorios.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_RelMovTpAtendimento.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\Clinica.vbproj.GenerateResource.Cache
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.exe
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.xml
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.pdb
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\Mono.Security.dll
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\de\Npgsql.resources.dll
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\es\Npgsql.resources.dll
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\RTecSys.exe.config
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.exe
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.xml
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.pdb
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\RTecSys.exe
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\RTecSys.pdb
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\RTecSys.xml
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\Boleto.Net.dll
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\GenoNFeXml.dll
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\GenoSintegra32DLL.dll
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\Mono.Security.dll
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\Npgsql.dll
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\Npgsql.xml
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\de\Npgsql.resources.dll
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\es\Npgsql.resources.dll
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\Clinica.vbprojResolveAssemblyReference.cache
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CadCidades.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CadDentistas.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CadDentistasOutras.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CadDespesasReceitas.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_cadMetro.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CadServico.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_MCadastroAlt.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_MCadastroInc.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_MenuCadastro.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_RestauraParticipante.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_TpAtendimento.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_UsuariosAcessos.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_UsuariosManutencao.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_BuscaPlano.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Cadastroplano.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_DespLancamento.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Menudespesas.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_MenuLancamentos.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_RelatorioDesp.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ContrDivOutras.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ControleCartao.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ControleMensal.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LancaCxDesp.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_AberturaFechamento.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LancaCxOrc.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LancaCX_DivD.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LancadosManualR.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LancamentoCaixaDiv.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LancamentoConvertOrca.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LancamentosCaixa.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ManCaixaDiario.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_MenuCX_Diario.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_RelatDiario.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ClienteFornResp.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NomeClinicaControleMensal.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ReciboNFeResp.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ServicoResp.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_AgendamentoAlt.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Agendamentos.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_AgendFinanceiro.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CancelamentoNFe.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_GeraNotasFiscais.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ManAgendamentos.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_DevolveEstornaPaga.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_relatFinanPaga.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_relatFinanReceb.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_RelatorioFluxo.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_MsgRTBox.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CfopResp.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CnpjCpfResp.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CodCaixaResp.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_DataDoDiaResp.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_DataPeriodoResp.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NFeReferenciadaResp.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NomeResp.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NumeroNFeResp.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_VendedorComisResp.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_VendedorResp.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.FrmLoginGerente.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.FrmLoginPrivilegio.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ConfigBD.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LoginGeral.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_login.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_RTecSys.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_SincronizaLojas.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_buscaFornecedor.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_buscaProdNFe.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NFeCartaCorrecao.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NFEGeraMapa.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NFEOutras.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NFeOutrasEdicao.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NFeOutrasEdicaoManifesto.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NFEAutorizanota.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Resources.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ManPagamentos.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_OutrosPagamentos.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_PagamentoIndividual.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_PosicaoPortadorPaga.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Backup.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_BaixaFinancRMp.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_GeraOrcamento.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Orcamento.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_OrcamentoAlt.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CadRecebimentos.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_BaixaBoletos.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_BaixaGeral.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_BaixaIndividual.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_DevolveEstornaRece.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_ManDuplicatas.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_OutrosMovimentos.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_PosicaoPortadorRece.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CadPagamento.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_MenuMovRelatorios.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\RTecSys.Frm_RelMovTpAtendimento.resources
+C:\Users\akka\Documents\Visual Studio 2012\Projects\CLINICA\Clinica\obj\Debug\Clinica.vbproj.GenerateResource.Cache
+C:\Arq\Projetos\CLINICA\Clinica\bin\Debug\RTecSys.exe.config
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.exe
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.xml
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.pdb
+C:\Arq\Projetos\CLINICA\Clinica\bin\Debug\RTecSys.exe
+C:\Arq\Projetos\CLINICA\Clinica\bin\Debug\RTecSys.pdb
+C:\Arq\Projetos\CLINICA\Clinica\bin\Debug\RTecSys.xml
+C:\Arq\Projetos\CLINICA\Clinica\bin\Debug\Boleto.Net.dll
+C:\Arq\Projetos\CLINICA\Clinica\bin\Debug\GenoNFeXml.dll
+C:\Arq\Projetos\CLINICA\Clinica\bin\Debug\GenoSintegra32DLL.dll
+C:\Arq\Projetos\CLINICA\Clinica\bin\Debug\Mono.Security.dll
+C:\Arq\Projetos\CLINICA\Clinica\bin\Debug\Npgsql.dll
+C:\Arq\Projetos\CLINICA\Clinica\bin\Debug\Npgsql.xml
+C:\Arq\Projetos\CLINICA\Clinica\bin\Debug\de\Npgsql.resources.dll
+C:\Arq\Projetos\CLINICA\Clinica\bin\Debug\es\Npgsql.resources.dll
+C:\Arq\Projetos\CLINICA\Clinica\bin\Debug\fi\Npgsql.resources.dll
+C:\Arq\Projetos\CLINICA\Clinica\bin\Debug\fr\Npgsql.resources.dll
+C:\Arq\Projetos\CLINICA\Clinica\bin\Debug\ja\Npgsql.resources.dll
+C:\Arq\Projetos\CLINICA\Clinica\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\Clinica.vbprojResolveAssemblyReference.cache
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CadCidades.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CadDentistas.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CadDentistasOutras.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CadDespesasReceitas.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_cadMetro.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CadServico.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_MCadastroAlt.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_MCadastroInc.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_MenuCadastro.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_RestauraParticipante.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_TpAtendimento.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_UsuariosAcessos.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_UsuariosManutencao.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_BuscaPlano.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Cadastroplano.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_DespLancamento.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Menudespesas.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_MenuLancamentos.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_RelatorioDesp.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ContrDivOutras.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ControleCartao.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ControleMensal.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LancaCxDesp.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_AberturaFechamento.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LancaCxOrc.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LancaCX_DivD.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LancadosManualR.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LancamentoCaixaDiv.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LancamentoConvertOrca.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LancamentosCaixa.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ManCaixaDiario.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_MenuCX_Diario.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_RelatDiario.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ClienteFornResp.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NomeClinicaControleMensal.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ReciboNFeResp.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ServicoResp.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_AgendamentoAlt.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Agendamentos.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_AgendFinanceiro.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CancelamentoNFe.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_GeraNotasFiscais.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ManAgendamentos.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_DevolveEstornaPaga.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_relatFinanPaga.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_relatFinanReceb.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_RelatorioFluxo.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_MsgRTBox.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CfopResp.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CnpjCpfResp.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CodCaixaResp.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_DataDoDiaResp.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_DataPeriodoResp.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NFeReferenciadaResp.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NomeResp.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NumeroNFeResp.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_VendedorComisResp.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_VendedorResp.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.FrmLoginGerente.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.FrmLoginPrivilegio.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ConfigBD.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LoginGeral.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_login.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_RTecSys.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_SincronizaLojas.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_buscaFornecedor.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_buscaProdNFe.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NFeCartaCorrecao.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NFEGeraMapa.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NFEOutras.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NFeOutrasEdicao.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NFeOutrasEdicaoManifesto.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NFEAutorizanota.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Resources.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ManPagamentos.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_OutrosPagamentos.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_PagamentoIndividual.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_PosicaoPortadorPaga.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Backup.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_BaixaFinancRMp.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_GeraOrcamento.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Orcamento.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_OrcamentoAlt.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CadRecebimentos.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_BaixaBoletos.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_BaixaGeral.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_BaixaIndividual.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_DevolveEstornaRece.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_ManDuplicatas.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_OutrosMovimentos.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_PosicaoPortadorRece.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CadPagamento.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_MenuMovRelatorios.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_RelMovTpAtendimento.resources
+C:\Arq\Projetos\CLINICA\Clinica\obj\Debug\Clinica.vbproj.GenerateResource.Cache
+C:\Projetos\CLINICA\Clinica\bin\Debug\RTecSys.exe.config
+C:\Projetos\CLINICA\Clinica\bin\Debug\RTecSys.exe
+C:\Projetos\CLINICA\Clinica\bin\Debug\RTecSys.pdb
+C:\Projetos\CLINICA\Clinica\bin\Debug\RTecSys.xml
+C:\Projetos\CLINICA\Clinica\bin\Debug\Boleto.Net.dll
+C:\Projetos\CLINICA\Clinica\bin\Debug\GenoNFeXml.dll
+C:\Projetos\CLINICA\Clinica\bin\Debug\GenoSintegra32DLL.dll
+C:\Projetos\CLINICA\Clinica\bin\Debug\Mono.Security.dll
+C:\Projetos\CLINICA\Clinica\bin\Debug\Npgsql.dll
+C:\Projetos\CLINICA\Clinica\bin\Debug\Npgsql.xml
+C:\Projetos\CLINICA\Clinica\bin\Debug\de\Npgsql.resources.dll
+C:\Projetos\CLINICA\Clinica\bin\Debug\es\Npgsql.resources.dll
+C:\Projetos\CLINICA\Clinica\bin\Debug\fi\Npgsql.resources.dll
+C:\Projetos\CLINICA\Clinica\bin\Debug\fr\Npgsql.resources.dll
+C:\Projetos\CLINICA\Clinica\bin\Debug\ja\Npgsql.resources.dll
+C:\Projetos\CLINICA\Clinica\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Projetos\CLINICA\Clinica\obj\Debug\Clinica.vbprojResolveAssemblyReference.cache
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CadCidades.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CadDentistas.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CadDentistasOutras.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CadDespesasReceitas.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_cadMetro.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CadServico.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_MCadastroAlt.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_MCadastroInc.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_MenuCadastro.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_RestauraParticipante.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_TpAtendimento.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_UsuariosAcessos.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_UsuariosManutencao.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_BuscaPlano.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Cadastroplano.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_DespLancamento.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Menudespesas.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_MenuLancamentos.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_RelatorioDesp.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ContrDivOutras.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ControleCartao.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ControleMensal.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LancaCxDesp.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_AberturaFechamento.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LancaCxOrc.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LancaCX_DivD.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LancadosManualR.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LancamentoCaixaDiv.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LancamentoConvertOrca.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LancamentosCaixa.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ManCaixaDiario.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_MenuCX_Diario.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_RelatDiario.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ClienteFornResp.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NomeClinicaControleMensal.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ReciboNFeResp.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ServicoResp.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_AgendamentoAlt.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Agendamentos.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_AgendFinanceiro.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CancelamentoNFe.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_GeraNotasFiscais.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ManAgendamentos.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_DevolveEstornaPaga.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_relatFinanPaga.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_relatFinanReceb.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_RelatorioFluxo.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_MsgRTBox.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CfopResp.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CnpjCpfResp.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CodCaixaResp.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_DataDoDiaResp.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_DataPeriodoResp.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NFeReferenciadaResp.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NomeResp.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NumeroNFeResp.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_VendedorComisResp.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_VendedorResp.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.FrmLoginGerente.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.FrmLoginPrivilegio.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ConfigBD.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_LoginGeral.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_login.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_RTecSys.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_SincronizaLojas.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_buscaFornecedor.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_buscaProdNFe.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NFeCartaCorrecao.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NFEGeraMapa.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NFEOutras.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NFeOutrasEdicao.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NFeOutrasEdicaoManifesto.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_NFEAutorizanota.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Resources.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_ManPagamentos.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_OutrosPagamentos.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_PagamentoIndividual.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_PosicaoPortadorPaga.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Backup.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_BaixaFinancRMp.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_GeraOrcamento.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Orcamento.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_OrcamentoAlt.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CadRecebimentos.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_BaixaBoletos.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_BaixaGeral.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_BaixaIndividual.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_DevolveEstornaRece.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_ManDuplicatas.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_OutrosMovimentos.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_Dup_PosicaoPortadorRece.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_CadPagamento.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_MenuMovRelatorios.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.Frm_RelMovTpAtendimento.resources
+C:\Projetos\CLINICA\Clinica\obj\Debug\Clinica.vbproj.GenerateResource.Cache
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.exe
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.xml
+C:\Projetos\CLINICA\Clinica\obj\Debug\RTecSys.pdb

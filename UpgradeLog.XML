@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Genov">
+</Property><Property Name="Arquivo de Solução" Value="C:\wged\WGenov\Genov\Genov.sln">
+</Property><Property Name="Arquivo de Opções do usuário" Value="C:\wged\WGenov\Genov\Genov.suo">
+</Property><Property Name="Date" Value="terça-feira, 21 de abril de 2009">
+</Property><Property Name="Time" Value="14:56">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Genov.sln" Description="O backup do arquivo como C:\wged\WGenov\Genov\Backup\Genov.sln foi feito com êxito">
+</Event><Event ErrorLevel="0" Project="" Source="Genov.suo" Description="O backup do arquivo como C:\wged\WGenov\Genov\Backup\Genov.suo foi feito com êxito">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Genov.vbproj" Description="O backup do arquivo de projeto foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Genov.vbproj">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Cadastro\Frm_Gcadgeno1.Designer.vb" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Cadastro\Frm_Gcadgeno1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Cadastro\Frm_Gcadgeno1.vb" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Cadastro\Frm_Gcadgeno1.vb">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Cadastro\Frm_Usuarios.Designer.vb" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Cadastro\Frm_Usuarios.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Cadastro\Frm_Usuarios.vb" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Cadastro\Frm_Usuarios.vb">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Cadastro\Frm_UsuariosAcessos.Designer.vb" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Cadastro\Frm_UsuariosAcessos.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Cadastro\Frm_UsuariosAcessos.vb" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Cadastro\Frm_UsuariosAcessos.vb">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\ClFuncoesGenov.vb" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\ClFuncoesGenov.vb">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Cadastro\Frm_Cadastro.Designer.vb" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Cadastro\Frm_Cadastro.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Cadastro\Frm_Cadastro.vb" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Cadastro\Frm_Cadastro.vb">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Cadastro\Frm_UsuariosManutenção.Designer.vb" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Cadastro\Frm_UsuariosManutenção.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Cadastro\Frm_UsuariosManutenção.vb" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Cadastro\Frm_UsuariosManutenção.vb">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\ClienteImport.vb" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\ClienteImport.vb">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Contabil\Frm_CTBLivrodeSaidas.Designer.vb" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Contabil\Frm_CTBLivrodeSaidas.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Contabil\Frm_CTBLivrodeSaidas.vb" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Contabil\Frm_CTBLivrodeSaidas.vb">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Contabil\Frm_CTBLivroEntradas.Designer.vb" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Contabil\Frm_CTBLivroEntradas.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Contabil\Frm_CTBLivroEntradas.vb" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Contabil\Frm_CTBLivroEntradas.vb">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Frm_Genov.vb" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Frm_Genov.vb">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Frm_Genov.Designer.vb" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Frm_Genov.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Movimentos\Frm_GeraPedidos.Designer.vb" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Movimentos\Frm_GeraPedidos.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Movimentos\Frm_GeraPedidos.vb" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Movimentos\Frm_GeraPedidos.vb">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Movimentos\Frm_Pedido.Designer.vb" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Movimentos\Frm_Pedido.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Movimentos\Frm_Pedido.vb" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Movimentos\Frm_Pedido.vb">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\My Project\AssemblyInfo.vb" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\My Project\Application.Designer.vb" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\My Project\Resources.Designer.vb" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\My Project\Settings.Designer.vb" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Parametros\Frm_ImpCabecalho.Designer.vb" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Parametros\Frm_ImpCabecalho.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Parametros\Frm_ImpCabecalho.vb" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Parametros\Frm_ImpCabecalho.vb">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\My Project\Application.myapp" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\My Project\Settings.settings" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Resources\Add.png" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Resources\Add.png">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Resources\Search.png" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Resources\Search.png">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Resources\Delete.png" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Resources\Delete.png">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Resources\Exit.png" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Resources\Exit.png">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Resources\Load.png" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Resources\Load.png">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Resources\Modify.png" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Resources\Modify.png">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Resources\Save.png" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Resources\Save.png">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Resources\disc_r.gif" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Resources\disc_r.gif">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Resources\Boleto.gif" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Resources\Boleto.gif">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Resources\Boleto 2 16x16.gif" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Resources\Boleto 2 16x16.gif">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Resources\Imprime.bmp" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Resources\Imprime.bmp">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Resources\Busca 16x16.gif" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Resources\Busca 16x16.gif">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Resources\Busca 16x161.gif" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Resources\Busca 16x161.gif">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Resources\user2_(add)_16x16.gif" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Resources\user2_(add)_16x16.gif">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Resources\usuario Adm 16x16.gif" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Resources\usuario Adm 16x16.gif">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Resources\palm_transf.bmp" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Resources\palm_transf.bmp">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Cadastro\ClasDiag_Cadastro.cd" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Cadastro\ClasDiag_Cadastro.cd">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Resources\administrator1_16x16.gif" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Resources\administrator1_16x16.gif">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Cadastro\Frm_Cadastro.resx" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Cadastro\Frm_Cadastro.resx">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Cadastro\Frm_Gcadgeno1.resx" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Cadastro\Frm_Gcadgeno1.resx">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Cadastro\Frm_Usuarios.resx" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Cadastro\Frm_Usuarios.resx">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Cadastro\Frm_UsuariosAcessos.resx" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Cadastro\Frm_UsuariosAcessos.resx">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Cadastro\Frm_UsuariosManutenção.resx" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Cadastro\Frm_UsuariosManutenção.resx">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Contabil\Frm_CTBLivrodeSaidas.resx" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Contabil\Frm_CTBLivrodeSaidas.resx">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Contabil\Frm_CTBLivroEntradas.resx" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Contabil\Frm_CTBLivroEntradas.resx">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Frm_Genov.resx" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Frm_Genov.resx">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Movimentos\Frm_GeraPedidos.resx" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Movimentos\Frm_GeraPedidos.resx">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Movimentos\Frm_Pedido.resx" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Movimentos\Frm_Pedido.resx">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\My Project\Resources.resx" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Parametros\Frm_ImpCabecalho.resx" Description="O backup do arquivo foi concluído com êxito como C:\wged\WGenov\Genov\Backup\Genov\Parametros\Frm_ImpCabecalho.resx">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Genov.vbproj" Description="Projeto convertido com êxito">
+</Event><Event ErrorLevel="3" Project="Genov" Source="Genov\Genov.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Genov.sln" Description="Solução convertida com êxito">
+</Event><Event ErrorLevel="3" Project="" Source="Genov.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Genov" Source="Genov\Genov.vbproj" Description="Verificação concluída: os arquivos de projeto não precisam de atualização.">
+</Event></UpgradeLog>

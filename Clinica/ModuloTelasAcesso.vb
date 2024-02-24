@@ -1,0 +1,47 @@
+﻿Module ModuloTelasAcesso
+    Public _tl_cadastros As Boolean = True
+    Public _tl_cadusuario As Boolean = True
+    Public _tl_cadcliente As Boolean = True
+    Public _tl_cadvendedor As Boolean = True
+    Public _tl_cadtitular As Boolean = True
+    Public _tl_cadcidade As Boolean = True
+    Public _tl_cadservico As Boolean = True
+    Public _tl_cadgeno As Boolean = True
+    Public _tl_movimentos As Boolean = True
+    Public _tl_movpedido As Boolean = True
+    Public _tl_movorcamento As Boolean = True
+    Public _tl_movtransferencia As Boolean = True
+    Public _tl_movnfe As Boolean = True
+    Public _tl_cupom As Boolean = True
+    Public _tl_cpprevenda As Boolean = True
+    Public _tl_cpvendadireta As Boolean = True
+    Public _tl_cpconfiguracao As Boolean = True
+    Public _tl_estoque As Boolean = True
+    Public _tl_estpesquisa As Boolean = True
+    Public _tl_estrestaura As Boolean = True
+    Public _tl_estimplantacao As Boolean = True
+    Public _tl_estpedidocompras As Boolean = True
+    Public _tl_estcompras As Boolean = True
+    Public _tl_estatualizacao As Boolean = True
+    Public _tl_financeiro As Boolean = True
+    Public _tl_finpagamentos As Boolean = True
+    Public _tl_finrecebimentos As Boolean = True
+    Public _tl_finfluxocaixa As Boolean = True
+    Public _tl_findespesas As Boolean = True
+    Public _tl_finchqPreDatado As Boolean = True
+    Public _tl_manutencao As Boolean = True
+    Public _tl_manemprestimos As Boolean = True
+    Public _tl_mantrocas As Boolean = True
+    Public _tl_manpalmtop As Boolean = True
+    Public _tl_mancidadesibge As Boolean = True
+    Public _tl_contabil As Boolean = True
+    Public _tl_ctbarqdigitais As Boolean = True
+    Public _tl_ctblivrosfiscais As Boolean = True
+    Public _tl_ctbcontador As Boolean = True
+    Public _tl_ctbcfop As Boolean = True
+    Public _tl_parametros As Boolean = True
+    Public _tl_paracontrole As Boolean = True
+    Public _tl_parautilitarios As Boolean = True
+    Public _tl_parabackup As Boolean = True
+
+End Module
